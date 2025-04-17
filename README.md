@@ -69,15 +69,17 @@ Foi previsto o peso de um novo pinguim com as seguintes características:
 
 Você pode abrir o notebook no Google Colab clicando abaixo:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/pinguins_regressao.ipynb)
+[![Abrir no Colab]https://colab.research.google.com/drive/1diQb2TaVlACZF-29qVMRqnRAENHgdP8E?usp=sharing
 
-> Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo nome da sua conta e repositório no GitHub.
+
+
+>
 
 ---
 
 ## 👩‍💻 Autora
 
-[Catherine (Cathe)](https://github.com/SEU_USUARIO)  
+[Catherine (Cathe)
 Estudante de Ciência da Computação | Análise de Dados pela EBAC  
 📍 Xaxim - SC
 
@@ -85,7 +87,7 @@ Estudante de Ciência da Computação | Análise de Dados pela EBAC
 
 ## 📬 Contato
 
-📧 cathe@email.com (substitua pelo seu, se quiser)
+📧 catherinepaula100@gmail.com
 
 ---
 
