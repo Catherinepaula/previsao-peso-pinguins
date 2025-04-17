@@ -70,6 +70,7 @@ Foi previsto o peso de um novo pinguim com as seguintes características:
 Você pode abrir o notebook no Google Colab clicando abaixo:
 
 [![Abrir no Colab]https://colab.research.google.com/drive/1diQb2TaVlACZF-29qVMRqnRAENHgdP8E?usp=sharing
+https://colab.research.google.com/drive/1Ctrtqtofm6bZ3VR0lmSsKfx3uDsxOANQ?usp=sharing
 
 
 
